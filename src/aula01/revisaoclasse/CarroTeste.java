@@ -1,4 +1,4 @@
-package aula01revisaoclasse;
+package aula01.revisaoclasse;
 
 public class CarroTeste {
 
